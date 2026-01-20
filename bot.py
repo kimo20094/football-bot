@@ -14,7 +14,7 @@ import psutil
 import random
 import re
 import chardet
-# إعدادات البوتات
+# إعدادات البوتات. 
 from concurrent.futures import ThreadPoolExecutor 
 import os
 import logging
