@@ -1,1 +1,1 @@
-Telegram bot for uploading and managing Python scripts.
+Football Bot – Telegram bot built with Python to provide football-related features.
